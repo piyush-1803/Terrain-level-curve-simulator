@@ -46,8 +46,8 @@ No build steps or dependencies required. Simply open `index.html` in any modern 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/piyush-1803/Terrain-level-curve-simulator.git
+cd Terrain-level-curve-simulator
 
 # Open in browser directly, or serve locally:
 python -m http.server 8080
